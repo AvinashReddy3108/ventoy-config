@@ -4,6 +4,8 @@
 
 # Title
 title-text: "Ventoy: Legacy/BIOS Mode"
+title-font: "Terminus Regular 18"
+title-color: #ffffff
 
 # Background
 desktop-image: "background.jpg"
