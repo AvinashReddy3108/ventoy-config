@@ -1,5 +1,6 @@
 # Personal [Ventoy](https://www.ventoy.net/en/index.html) configuration
-Designed for _(hopefully, tested on 1366x768 and 1024x768)_ any resolutions.
+> NOTE: Designed for 1920x1080, 1366x768 and 1024x768, would need minor tweaks for higher resolutions.
+
 
 ## Features
 - Separate themes for Legacy and UEFI modes.
