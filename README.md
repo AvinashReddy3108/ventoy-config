@@ -1,5 +1,12 @@
-# Personal Ventoy configuration
-Designed for _(hopefully)_ any resolution. Tested on: 1366x768 and 1024x768 resolutions.
+# Personal [Ventoy](https://www.ventoy.net/en/index.html) configuration
+Designed for _(hopefully, tested on 1366x768 and 1024x768)_ any resolutions.
+
+## Features
+- Separate themes for Legacy and UEFI modes.
+- [WIP] Icons for _(almost)_ everything!
+- Themes are modified to provide support for:
+  - Ventoy specific hotkeys (ex: F5 for Tools)
+  - Indicators for **ALL** Ventoy's advanced modes (ex: Memdisk Mode)
 
 ## Preview
 
@@ -13,6 +20,6 @@ Designed for _(hopefully)_ any resolution. Tested on: 1366x768 and 1024x768 reso
 
 ## Credits/References
 - [Stylish (Legacy) / Vimix (UEFI)](https://github.com/vinceliuice/grub2-themes) themes for GRUB2 by @vinceliuice
-- [Argon GRUB2 theme](https://github.com/stuarthayhurst/argon-grub-theme) by @stuarthayhurst
+- OS/Distro icons are taken from the [Argon GRUB2 theme](https://github.com/stuarthayhurst/argon-grub-theme) by @stuarthayhurst
 - [Ventoy](https://github.com/ventoy/Ventoy): for making it really easy to make multiboot USB drives :)
 
