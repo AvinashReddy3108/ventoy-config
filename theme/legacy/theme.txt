@@ -1,6 +1,5 @@
 # Stylish: A modern theme for GRUB2 (https://github.com/vinceliuice/grub2-themes)
 # Modified (primarily for use with Ventoy) by AvinashReddy3108
-# Designed for [hopefully] any resolution
 
 # Title
 title-text: "Ventoy: Legacy/BIOS Mode"
