@@ -1,0 +1,53 @@
+{
+    "control":[
+        { "VTOY_WIN11_BYPASS_CHECK": "1" },
+        { "VTOY_MENU_TIMEOUT": "10" },
+        { "VTOY_DEFAULT_IMAGE": "VTOY_EXIT" }
+    ],
+    "theme_legacy":{
+        "file": "/ventoy/theme/legacy/theme.txt",
+        "gfxmode": "1920x1080,1366x768,1024x768,auto",
+        "ventoy_top": "2%",
+        "ventoy_left": "2%",
+        "ventoy_color": "#cccccc",
+        "fonts":[
+            "/ventoy/theme/legacy/terminus-12.pf2",
+            "/ventoy/theme/legacy/terminus-14.pf2",
+            "/ventoy/theme/legacy/terminus-16.pf2",
+            "/ventoy/theme/legacy/terminus-18.pf2"
+        ]
+    },
+    "theme_uefi":{
+        "file": "/ventoy/theme/uefi/theme.txt",
+        "gfxmode": "1920x1080,1366x768,1024x768,auto",
+        "ventoy_top": "2%",
+        "ventoy_left": "2%",
+        "ventoy_color": "#cccccc",
+        "fonts":[
+            "/ventoy/theme/uefi/terminus-12.pf2",
+            "/ventoy/theme/uefi/terminus-14.pf2",
+            "/ventoy/theme/uefi/terminus-16.pf2",
+            "/ventoy/theme/uefi/terminus-18.pf2"
+        ]
+    },
+    "menu_alias":[
+        {
+            "image": "/archlinux-****.**.**-x86_64.iso",
+            "alias": "Arch Linux [x86-64]"
+        },
+        {
+            "image": "/Win11.PRO.****.GS_WPE.iso",
+            "alias": "Windows 11 PRO (Ghost Spectre) [WPE]"
+        }
+    ],
+    "menu_class":[
+        {
+            "key": "archlinux",
+            "class": "archlinux"
+        },
+        {
+            "key": "Win",
+            "class": "windows"
+        }
+    ]
+}
