@@ -5,7 +5,7 @@
 ## Features
 
 - Separate themes for Legacy and UEFI modes.
-- [WIP] Icons for _(almost)_ everything!
+- Icons for boot entries.
 - Themes are modified to provide support for:
   - Ventoy specific hotkeys (ex: F5 for Tools)
   - Indicators for **ALL** Ventoy's advanced modes (ex: Memdisk Mode)
