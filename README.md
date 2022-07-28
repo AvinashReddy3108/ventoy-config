@@ -14,9 +14,9 @@
 
 <div align="center">
 
-| <img src="https://i.ibb.co/d6yK6Kv/Virtual-Box-Boot-from-USB-BIOS-28-07-2022-06-20-30.png" width="415px"> | <img src="https://i.ibb.co/c3x56N3/Virtual-Box-Boot-from-USB-UEFI-28-07-2022-06-19-37.png" width="415px"> |
-|:----------------------------------------------------------:|:-----------------------------------------------------:|
-|                   **_Legacy/BIOS Mode_**                   |                    **_UEFI Mode_**                    |
+|                   **_Legacy/BIOS Mode_**                                                                  |                    **_UEFI Mode_**                                                                        |
+|:----------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|
+| <img src="https://i.ibb.co/d6yK6Kv/Virtual-Box-Boot-from-USB-BIOS-28-07-2022-06-20-30.png" width="450px"> | <img src="https://i.ibb.co/c3x56N3/Virtual-Box-Boot-from-USB-UEFI-28-07-2022-06-19-37.png" width="450px"> |
 
 </div>
 
